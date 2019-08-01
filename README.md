@@ -1,8 +1,8 @@
-Xem Capture.jpg để hiểu cách tạo bookmark
+Xem Capture.jpg để hiểu cách tạo bookmark, nếu thanh bookmark không hiện hãy Ctrl+Shift+B
 
-Code ở trong file Bookmark
+Code ở trong file "bookmark.js"
 
-Thêm mã lớp vào
+Thêm mã lớp vào dưới dạng file INIT
 
 Lưu Lại
 
