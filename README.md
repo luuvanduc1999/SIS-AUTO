@@ -20,6 +20,6 @@ Mở được SIS thì click INIT đầu tiên, AUTO liên tục đến khi báo
 
 Video chi tiết cách sử dụng: 
 
-[<img src="https://img.youtube.com/vi/kefXovaJDR4/maxresdefault.jpg" width="50%">](https://youtu.be/kefXovaJDR4)
+[<img src="https://img.youtube.com/vi/kefXovaJDR4/maxresdefault.jpg" width="60%">](https://youtu.be/kefXovaJDR4)
 
 # SIS-AUTO
