@@ -18,8 +18,11 @@ Lưu Lại
 
 Mở được SIS thì click INIT đầu tiên, AUTO liên tục đến khi báo lỗi, rồi SUBMIT và chọn YES
 
-Video chi tiết cách sử dụng: https://youtu.be/kefXovaJDR4
+Video chi tiết cách sử dụng: 
 
-<iframe width="900" height="506" src="https://www.youtube.com/embed/kefXovaJDR4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[<img src="https://img.youtube.com/vi/kefXovaJDR4/maxresdefault.jpg" width="50%">](https://youtu.be/kefXovaJDR4)
+
+
+
 
 # SIS-AUTO
