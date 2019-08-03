@@ -2,7 +2,7 @@
 
 Đây chỉ là tự động điền mã lớp cho bạn, hoàn toàn **KHÔNG** can thiệp bất cứ điều gì vảo server
 
-# Cách tạo
+## Cách tạo
 
 Tạo *bookmark* để chạy auto, gồm có **INIT**, **AUTO** và **SUBMIT**
 
@@ -18,7 +18,7 @@ Thay đổi các mã lớp vào nội dung của **INIT** dưới dạng ["MA1",
 
 Lưu Lại
 
-# Sử dụng
+## Sử dụng
 
 Mở được **SIS** thì click **INIT** đầu tiên, rồi đến **AUTO** liên tục đến khi báo lỗi *mã không tồn tại*, rồi **SUBMIT** và chọn **YES**
 
