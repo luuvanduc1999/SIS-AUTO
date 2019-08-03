@@ -22,7 +22,7 @@ Lưu Lại và xếp 3 cái gần nhau cho tiện nha.
 
 Mở được **SIS** thì click **INIT** đầu tiên, rồi đến **AUTO** liên tục đến khi báo lỗi *mã không tồn tại*, rồi **SUBMIT** và chọn **YES**
 
-****Video chi tiết cách sử dụng: ****
+***Video chi tiết cách sử dụng: ***
 
 [<img src="https://img.youtube.com/vi/kefXovaJDR4/maxresdefault.jpg" width="80%">](https://youtu.be/kefXovaJDR4)
 
