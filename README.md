@@ -4,9 +4,9 @@
 
 # Cách tạo
 
-Tạo *bookmark* để chạy auto, gồm có **INIT**, **AUTO** và **SUBMIT***
+Tạo *bookmark* để chạy auto, gồm có **INIT**, **AUTO** và **SUBMIT**
 
-Phải chuột vào thanh *bookmark* và chọn ***Thêm trang...**
+Phải chuột vào thanh *bookmark* và chọn **Thêm trang...**
 
 Xem hình dưới để hiểu cách tạo *bookmark*, nếu chrome thanh *bookmark* không hiện khi mở website hãy **Ctrl+Shift+B**
 
@@ -20,7 +20,7 @@ Lưu Lại
 
 # Sử dụng
 
-Mở được **SIS*** thì click **INIT** đầu tiên, rồi đến **AUTO** liên tục đến khi báo lỗi *mã không tồn tại*, rồi **SUBMIT** và chọn **YES**
+Mở được **SIS** thì click **INIT** đầu tiên, rồi đến **AUTO** liên tục đến khi báo lỗi *mã không tồn tại*, rồi **SUBMIT** và chọn **YES**
 
 Video chi tiết cách sử dụng: 
 
