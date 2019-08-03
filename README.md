@@ -3,7 +3,9 @@
 Tạo bookmark để chạy auto, gồm có INIT, AUTO và SUBMIT
 
 Phải chuột vào thanh bookmark và chọn "Thêm trang..."
-Xem Capture.jpg để hiểu cách tạo bookmark, nếu chrome thanh bookmark không hiện khi mở website hãy Ctrl+Shift+B
+
+Xem hình dưới để hiểu cách tạo bookmark, nếu chrome thanh bookmark không hiện khi mở website hãy Ctrl+Shift+B
+
 <img src="https://raw.githubusercontent.com/luuvanduc1999/SIS-AUTO/master/Capture.JPG" />
 
 Xem code của từng mục ở trong file "bookmark.js"
