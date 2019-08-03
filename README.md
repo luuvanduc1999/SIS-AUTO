@@ -1,3 +1,7 @@
+# SIS-AUTO
+
+Đây chỉ là tự động điền mã lớp cho bạn, hoàn toàn **KHÔNG** can thiệp bất cứ điều gì vảo server
+
 # Cách tạo
 
 Tạo *bookmark* để chạy auto, gồm có **INIT**, **AUTO** và **SUBMIT***
@@ -22,4 +26,3 @@ Video chi tiết cách sử dụng:
 
 [<img src="https://img.youtube.com/vi/kefXovaJDR4/maxresdefault.jpg" width="70%">](https://youtu.be/kefXovaJDR4)
 
-# SIS-AUTO
