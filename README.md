@@ -16,7 +16,7 @@ Xem nội dung **URL** của từng *bookmark* ở trong file "bookmark.js"
 
 Thay đổi các mã lớp vào nội dung của **INIT** dưới dạng ["MA1","MA2","MA3"...]
 
-Lưu Lại
+Lưu Lại và xếp 3 cái gần nhau cho tiện nha.
 
 ## Sử dụng
 
