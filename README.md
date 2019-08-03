@@ -23,6 +23,4 @@ Video chi tiết cách sử dụng:
 [<img src="https://img.youtube.com/vi/kefXovaJDR4/maxresdefault.jpg" width="50%">](https://youtu.be/kefXovaJDR4)
 
 
-
-
 # SIS-AUTO
