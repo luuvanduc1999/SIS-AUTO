@@ -6,7 +6,7 @@ Phải chuột vào thanh bookmark và chọn "Thêm trang..."
 
 Xem hình dưới để hiểu cách tạo bookmark, nếu chrome thanh bookmark không hiện khi mở website hãy Ctrl+Shift+B
 
-<img src="https://raw.githubusercontent.com/luuvanduc1999/SIS-AUTO/master/Capture.JPG" />
+<img src="https://raw.githubusercontent.com/luuvanduc1999/SIS-AUTO/master/Capture.JPG" width="60%/>
 
 Xem nội dung URL của từng mục ở trong file "bookmark.js"
 
